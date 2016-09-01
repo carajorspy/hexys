@@ -1,0 +1,17 @@
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\controller\FotosController.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\repository\Vinhos.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\storage\FotoStorageLocal.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\config\AmazonConfig.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\config\SecurityConfig.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\service\CadastroVinhoService.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\storage\FotoStorage.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\model\TipoVinho.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\storage\FotoReader.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\config\WebConfig.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\model\Vinho.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\controller\VinhosController.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\controller\ErrorPagesController.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\storage\FotoStorageS3.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\WineApplication.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\controller\SegurancaController.java
+C:\Users\josé\Dropbox\Workspaces\Workspace1\Spring\wine\src\main\java\com\algaworks\wine\dto\Foto.java
